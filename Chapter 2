@@ -1,7 +1,7 @@
 library(fortunes)
 fortune(375)
 getwd()
-setwd("C:/Users/alfre/OneDrive .../ENVS2002/data/chapter2")
+setwd("C:/Users/OneDrive .../ENVS2002/data/chapter2")
 getwd()
 
 library(readr)
