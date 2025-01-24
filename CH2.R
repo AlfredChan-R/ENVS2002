@@ -1,7 +1,7 @@
 library(fortunes)
 fortune(375)
 getwd()
-setwd("C:/Users/alfre/OneDrive - connect.hku.hk/UGC Funded/HKU/Year3 Sem2/Earth Sciences(ENVS)/ENVS2002/data/chapter2")
+setwd("C:/Users/ENVS2002/data/chapter2")
 getwd()
 
 library(readr)
